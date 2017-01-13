@@ -29,7 +29,7 @@ La herramienta se prepara para la ejecución cargando todos los scripts “.R”
 	install.packages("httr","jsonlite","modeest","fmsb","ggplot2","rJava","xlsx")
 
 También será necesario introducir los tokens de acceso a la API de Twitter en el archivo “parameters.R”.
-Una vez instaladas las librerías se procede comenzar el desarrollo del estudio mediante la ejecución del programa. 
+Una vez instaladas las librerías se procede comenzar el desarrollo mediante la ejecución del programa. 
 
 ##4.5.2. EJECUCIÓN Y OBTENCIÓN DE DATOS
 
